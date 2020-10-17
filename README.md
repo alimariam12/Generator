@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # University of Minnesota Coding Bookcamp
 ## Homework #1: JavaScript Password Generator
 
@@ -20,4 +19,3 @@ For our homework this week we were asking to create a password generator using J
 
 <img width="868" alt="Screen Shot 2020-10-17 at 6 44 18 PM" src="https://user-images.githubusercontent.com/71665063/96355647-75fd8b00-10a9-11eb-9f3c-9ba016ea66bd.png">
 <br>
->>>>>>> ee50e6255781e47973d031e8ace626562fce6b88

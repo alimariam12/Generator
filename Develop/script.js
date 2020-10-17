@@ -39,16 +39,16 @@
         let numbersInclude = confirm("Click OK to include Numbers");
       
 
-      if (confirm = uppercaseInclude) {
+      if (uppercaseInclude) {
         option = option.concat(upperCase);
       }
-      if (confirm = lowercaseInclude) {
+      if (lowercaseInclude) {
         option = option.concat(lowerCase);
       }
-      if (confirm = numbersInclude) {
+      if (numbersInclude) {
         option = option.concat(onlyNumbers);
       }
-      if (confirm = specialInclude) {
+      if (specialInclude) {
         option = option.concat(onlySpecial);
       }
     }
